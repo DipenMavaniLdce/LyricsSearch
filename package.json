@@ -1,0 +1,24 @@
+{
+  "name": "Lyrics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy" : "gh-pages -d main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DipenMavaniLdce/Lyrics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DipenMavaniLdce/Lyrics/issues"
+  },
+  "homepage": "https://github.com/DipenMavaniLdce/Lyrics#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
